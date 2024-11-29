@@ -1,0 +1,16 @@
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\bin\Debug\net8.0-windows\GenPass.exe
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\bin\Debug\net8.0-windows\GenPass.deps.json
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\bin\Debug\net8.0-windows\GenPass.runtimeconfig.json
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\bin\Debug\net8.0-windows\GenPass.dll
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\bin\Debug\net8.0-windows\GenPass.pdb
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.Form1.resources
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.vbproj.GenerateResource.cache
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.AssemblyInfoInputs.cache
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.AssemblyInfo.vb
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.vbproj.CoreCompileInputs.cache
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.dll
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\refint\GenPass.dll
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.pdb
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\GenPass.genruntimeconfig.cache
+C:\Users\iwan_\OneDrive\Рабочий стол\GenPass\GenPass\obj\Debug\net8.0-windows\ref\GenPass.dll
